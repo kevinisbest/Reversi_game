@@ -1,4 +1,7 @@
 # Reversi_game
+{基於在cygwin上的黑白棋程式}
+
+
 1.	如果遇到亂碼，請在右鍵options裡text選big5編碼
 2.	如果遇到畫面一堆warning，請忽視，並不是error
 3.	如果畫面太小，請ctrl+滾輪上來放大介面
